@@ -7,11 +7,11 @@ Implementación del **banco de mediciones automatizado en Python**, organizada e
 Trabajo Final Integrador — Programación · UTN FRBA · 2026
 
 1. Ignacio Galione
-2. **Pendiente: nombre y apellido del integrante 2**
-3. **Pendiente: nombre y apellido del integrante 3**
-4. **Pendiente: nombre y apellido del integrante 4**
+2. Lautaro Bran
+3. David Silguero
+4. Nicolas Ariel Flores
 
-> La consigna admite hasta cuatro integrantes **en total**. Reemplazar los datos pendientes por los nombres y apellidos completos antes de entregar. El grupo debe poder defender individualmente los diez ejercicios.
+> La consigna admite hasta cuatro integrantes **en total**. El grupo debe poder defender individualmente los diez ejercicios.
 
 ## Estado de archivos y pruebas
 
